@@ -16,8 +16,10 @@
 - [Illustration](#illustration)
 - [Generative](#generative)
 - [OS](#os)
+- [Anime](#anime)
 - [Minecraft](#minecraft)
 - [Photography](#photography)
+- [Miscellaneous](#miscellaneous)
 
 ## Illustration
 
@@ -107,6 +109,10 @@
 
 ![Obliquas Dark](illustration/obliquas-dark.jpg)
 
+**_Tower Horizon_ by [neyfua](https://github.com/neyfua)**
+
+![Tower Horizon](illustration/tower-horizon.jpg)
+
 ## [Generative](https://github.com/chunghha/go-rosepine-genart)
 
 **_Circle_ by [Chunghha](https://github.com/chunghha)**
@@ -175,39 +181,77 @@
 
 ![Arch BTW Dawn](os/arch-btw-dawn.png)
 
+## Anime
+
+**_Cat Walking_ by [neyfua](https://github.com/neyfua)**
+
+![Cat Walking](anime/cat-walking.jpeg)
+
+**_Earrings_ by [neyfua](https://github.com/neyfua)**
+
+![Earrings](anime/earrings.jpg)
+
+**_Eating Cake_ by [neyfua](https://github.com/neyfua)**
+
+![Eating Cake](anime/eating-cake.jpg)
+
+**_Rearview Mirror_ by [neyfua](https://github.com/neyfua)**
+
+![Rearview Mirror](anime/rearview-mirror.jpg)
+
+**_Bocchi the Rock studio_ by [neyfua](https://github.com/neyfua)**
+
+![Bocchi the Rock studio](anime/bocchi-studio.jpg)
+
+**_Seaside Bus Stop View_ by [neyfua](https://github.com/neyfua)**
+
+![Seaside Bus Stop View](anime/seaside-bus-stop-view.png)
+
+**_Tomoko Kuroki_ by [neyfua](https://github.com/neyfua)**
+
+![Tomoko Kuroki](anime/tomoko-kuroki.jpg)
+
+**_Ohga Wajima_ by [neyfua](https://github.com/neyfua)**
+
+![Ohga Wajima](anime/ohga-wajima.png)
+
 ## Minecraft
 
-**_Snow Pine Forest_ by [ne](https://github.com/neyfua)**
+**_Snow Pine Forest_ by [neyfua](https://github.com/neyfua)**
 
 ![Snow Pine Forest](minecraft/snow-pine-forest.png)
 
-**_Snow Mountain Range_ by [ne](https://github.com/neyfua)**
+**_Snow Mountain Range_ by [neyfua](https://github.com/neyfua)**
 
 ![Snow Mountain Range](minecraft/snow-mountain-range.jpg)
 
-**_Snow Hills Sunset_ by [ne](https://github.com/neyfua)**
+**_Snow Hills Sunset_ by [neyfua](https://github.com/neyfua)**
 
 ![Snow Hills Sunset](minecraft/snow-hills-sunset.png)
 
-**_Snow Plains Evening_ by [ne](https://github.com/neyfua)**
+**_Snow Plains Evening_ by [neyfua](https://github.com/neyfua)**
 
 ![Snow Plains Evening](minecraft/snow-plains-evening.jpg)
 
-**_Snow Night Moon_ by [ne](https://github.com/neyfua)**
+**_Snow Night Moon_ by [neyfua](https://github.com/neyfua)**
 
 ![Snow Night Moon](minecraft/snow-night-moon.png)
 
-**_Snow Desert Sunset_ by [ne](https://github.com/neyfua)**
+**_Snow Desert Sunset_ by [neyfua](https://github.com/neyfua)**
 
 ![Snow Desert Sunset](minecraft/snow-desert-sunset.jpg)
 
-**_Cave Sunset View_ by [ne](https://github.com/neyfua)**
+**_Cave Sunset View_ by [neyfua](https://github.com/neyfua)**
 
 ![Cave Sunset View](minecraft/cave-sunset-view.png)
 
-**_Dark House Rain_ by [ne](https://github.com/neyfua)**
+**_Dark House Rain_ by [neyfua](https://github.com/neyfua)**
 
 ![Dark House Rain](minecraft/dark-house-rain.png)
+
+**_Grand Hall_ by [neyfua](https://github.com/neyfua)**
+
+![Grand Hall](minecraft/grand-hall.png)
 
 **_Intaria Triple_ by [nnhomoli](https://github.com/nnhomoli)**
 
@@ -230,6 +274,14 @@
 ![Tengoku Underthee](minecraft/tengoku-underthee.webp)
 
 ## Photography
+
+**_Snowy Evergreen_ by [neyfua](https://github.com/neyfua)**
+
+![Snowy Evergreen](photography/snowy-evergreen.jpg)
+
+**_Building_ by [neyfua](https://github.com/neyfua/)**
+
+![Building](photography/building.jpg)
 
 > *All photographs below are licensed as [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en)*
 
@@ -296,3 +348,21 @@
 **_Through the Branches_ by [single_celled_photography](https://www.instagram.com/single_celled_photography/)**
 
 ![Through the Branches](photography/single-celled/through-the-branches.jpg)
+
+## Miscellaneous
+
+**_Motorcycle_ by [neyfua](https://github.com/neyfua/)**
+
+![Motorcycle](miscellaneous/motorcycle.jpg)
+
+**_Chrome Angel (1)_ by [neyfua](https://github.com/neyfua/)**
+
+![Chrome Angel](miscellaneous/chrome_angel(1).jpg)
+
+**_Chrome Angel (2)_ by [neyfua](https://github.com/neyfua/)**
+
+![Chrome Angel](miscellaneous/chrome_angel(2).jpg)
+
+**_Cameras_ by [neyfua](https://github.com/neyfua/)**
+
+![Building](miscellaneous/cameras.png)

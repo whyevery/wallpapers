@@ -232,7 +232,7 @@
 
 **_Think Only About Your Art_ [Vagabond](https://www.viz.com/vagabond) | recolour by [whyevery](https://github.com/whyevery/)**
 
-![Think Only About Your Art](manga/think-only-about-your-art.jpeg)
+![Think Only About Your Art](manga/think-only-about-your-art.png)
 
 **_Infinity Within_ [Vagabond](https://www.viz.com/vagabond) | recolour by [whyevery](https://github.com/whyevery/)**
 

@@ -17,6 +17,7 @@
 - [Generative](#generative)
 - [OS](#os)
 - [Anime](#anime)
+- [Manga](#manga)
 - [Minecraft](#minecraft)
 - [Photography](#photography)
 - [Miscellaneous](#miscellaneous)
@@ -223,6 +224,28 @@
 
 ![Ohga Wajima](anime/ohga-wajima.png)
 
+## Manga
+
+**_The Strongest_ [Vagabond](https://www.viz.com/vagabond) | recolour by [whyevery](https://github.com/whyevery/)**
+
+![The Strongest](manga/the-strongest.jpeg)
+
+**_Think Only About Your Art_ [Vagabond](https://www.viz.com/vagabond) | recolour by [whyevery](https://github.com/whyevery/)**
+
+![Think Only About Your Art](manga/think-only-about-your-art.jpeg)
+
+**_Infinity Within_ [Vagabond](https://www.viz.com/vagabond) | recolour by [whyevery](https://github.com/whyevery/)**
+
+![Infinity Within](manga/infinity-within.jpeg)
+
+**_K2_ [The Climber](https://www.viz.com/climber) | recolour by [whyevery](https://github.com/whyevery/)**
+
+![K2](manga/K2.jpeg)
+
+**_The World of the Stars and Stripes_ [Steel Ball Run](https://www.viz.com/manga-books/manga/jojo-s-bizarre-adventure-part-7-steel-ball-run/all) | recolour by [whyevery](https://github.com/whyevery/)**
+
+![The World of the Stars and Stripes](manga/the-world-of-the-stars-and-stripes.jpeg)
+
 ## Minecraft
 
 **_Snow Pine Forest_ by [neyfua](https://github.com/neyfua)**
@@ -290,6 +313,10 @@
 **_Building_ by [neyfua](https://github.com/neyfua/)**
 
 ![Building](photography/building.jpg)
+
+**_A New View of The Moon_ by [NASA] | recolour by [whyevery](https://github.com/whyevery/)**
+
+![A New View of The Moon](photography/ANVTM/A New View of The Moon.jpg)
 
 > *All photographs below are licensed as [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en)*
 
@@ -374,3 +401,7 @@
 **_Cameras_ by [neyfua](https://github.com/neyfua/)**
 
 ![Building](miscellaneous/cameras.png)
+
+**_Legendary Dragon_ [Ryu Ga Gotoku, SEGA](https://ryu-ga-gotoku.com/) | recolour by [whyevery](https://github.com/whyevery/)**
+
+![Legendary Dragon](miscellaneous/legendary-dragon.png)

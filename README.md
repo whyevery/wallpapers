@@ -226,23 +226,23 @@
 
 ## Manga
 
-**_The Strongest_ [Vagabond](https://www.viz.com/vagabond) | recolour by [whyevery](https://github.com/whyevery/)**
+**_The Strongest_ [Vagabond, Takehiko Inoue](https://www.viz.com/vagabond) | recolour by [whyevery](https://github.com/whyevery/)**
 
 ![The Strongest](manga/the-strongest.jpeg)
 
-**_Think Only About Your Art_ [Vagabond](https://www.viz.com/vagabond) | recolour by [whyevery](https://github.com/whyevery/)**
+**_Think Only About Your Art_ [Vagabond, Takehiko Inoue](https://www.viz.com/vagabond) | recolour by [whyevery](https://github.com/whyevery/)**
 
 ![Think Only About Your Art](manga/think-only-about-your-art.png)
 
-**_Infinity Within_ [Vagabond](https://www.viz.com/vagabond) | recolour by [whyevery](https://github.com/whyevery/)**
+**_Infinity Within_ [Vagabond, Takehiko Inoue](https://www.viz.com/vagabond) | recolour by [whyevery](https://github.com/whyevery/)**
 
 ![Infinity Within](manga/infinity-within.jpeg)
 
-**_K2_ [The Climber](https://www.viz.com/climber) | recolour by [whyevery](https://github.com/whyevery/)**
+**_K2_ [The Climber, Shin-ichi Sakamoto](https://www.viz.com/climber) | recolour by [whyevery](https://github.com/whyevery/)**
 
 ![K2](manga/K2.jpeg)
 
-**_The World of the Stars and Stripes_ [Steel Ball Run](https://www.viz.com/manga-books/manga/jojo-s-bizarre-adventure-part-7-steel-ball-run/all) | recolour by [whyevery](https://github.com/whyevery/)**
+**_The World of the Stars and Stripes_ [Steel Ball Run, Hirohiko Araki](https://www.viz.com/manga-books/manga/jojo-s-bizarre-adventure-part-7-steel-ball-run/all) | recolour by [whyevery](https://github.com/whyevery/)**
 
 ![The World of the Stars and Stripes](manga/the-world-of-the-stars-and-stripes.jpeg)
 
@@ -314,9 +314,9 @@
 
 ![Building](photography/building.jpg)
 
-**_A New View of The Moon_ by [NASA] | recolour by [whyevery](https://github.com/whyevery/)**
+**_A New View of The Moon_ by [Artemis II, NASA] | recolour by [whyevery](https://github.com/whyevery/)**
 
-![A New View of The Moon](photography/ANVTM/A New View of The Moon.jpg)
+![A New View of The Moon](photography/ANVTM/ANVTM.jpg)
 
 > *All photographs below are licensed as [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en)*
 
